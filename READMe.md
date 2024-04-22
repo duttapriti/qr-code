@@ -6,10 +6,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
   - [screenshot](#screenshot)
   - [Built with](#built-with)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 
 
@@ -21,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: (https://duttapriti.github.io/qr-code/) 
+- Solution URL: [git solution](https://github.com/duttapriti/qr-code.git)
+- Live Site URL: [live solution](https://duttapriti.github.io/qr-code/) 
 
 
 
